@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Co-constructing a NIME Performance Pedagogy](README.md)
 
