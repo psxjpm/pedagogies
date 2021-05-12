@@ -1,27 +1,22 @@
----
-description: >-
-  Date: June 13th (UTC-7) June 14th
-  (UTC+8)                                                                          
-  Duration: 3 hours (14:00-17:00 UTC-7) (22:00-1:00 UTC+1) (5:00-8:00 UTC+8)
----
-
 # Co-constructing a NIME Performance Pedagogy
 
-#### [Call for Short Position Papers \(Deadline: ???\)](https://psxjpm.gitbook.io/pedagogies/call)
+## Workshop Title <a id="workshop-title"></a>
+
+Co-constructing a NIME Performance Pedagogy
 
 ## Description <a id="description"></a>
 
 In NIME 2018, Marquez-Borbon and Martinez Avila proposed a NIME performance pedagogy envisioning a holistic digital musical instrument \(DMI\) design approach which takes into account the ecosystemic aspects of communities of practice and the improvisatory and exploratory aspects of non-traditional pedagogical methods, in order to address the problem of DMI adoption and longevity \[1\]. As recently discussed within NIME, there is a need for developing pedagogies, repertoire, and critical discourse which attends to the long-term needs for sustaining prolonged musical practice within a performance community \(for example \[2, 3\]\).
 
-This **online workshop** aims to start a conversation with members of the NIME community on how we may implement such pedagogies of performance practices with DMIs, by critically addressing existing epistemological and practical issues in NIME pedagogies, as well as by sharing and discussing existing pedagogical approaches among DMI designers, performers, practitioners, and pedagogues in the community. We also aim to ideate and generate new strategies together.
+This workshop aims to start a conversation with members of the NIME community on how we may implement such pedagogies of performance practices with DMIs, by critically addressing existing epistemological and practical issues in NIME pedagogies, as well as by sharing and discussing existing pedagogical approaches among DMI designers, performers, practitioners, and pedagogues in the community. We also aim to ideate and generate new strategies together.
 
 We are particularly interested in the implementation of non-traditional teaching strategies that formally structure both a non-hierarchical learning environment and non-prescriptive learning tasks in order to foster enactive and embodied learning processes, but we are open to discussing other pedagogical views in order to discuss, contrast and reflect on different ideas, strategies and approaches.
 
-Hence, we encourage participants to [**submit proposals for short presentations**](https://psxjpm.gitbook.io/pedagogies/call) on their pedagogical approaches to teaching performance with DMIs, or to share their experiences developing performative techniques for their instrument, as well as their approaches for collaborative and improvisational practices with them, such as by engaging in jam sessions, developing notation or documenting their processes.
+Hence, we encourage participants to submit proposals for short presentations on their pedagogical approaches to teaching performance with DMIs, or to share their experiences developing performative techniques for their instrument, as well as their approaches for collaborative and improvisational practices with them, such as by engaging in jam sessions, developing notation or documenting their processes.
 
 They may do so by showcasing their own DMIs or describing their experience practicing to perform with other people’s DMIs. Although it will not be compulsory to prepare a presentation or bring an instrument to attend to the workshop we expect that participants come prepared with ideas that they would like to discuss as well as to have previous experience as performers and designers of DMIs, or who teach others how to perform and design DMIs.
 
-### Workshop schedule  <a id="workshop-schedule"></a>
+### Workshop schedule <a id="workshop-schedule"></a>
 
 <table>
   <thead>
@@ -79,6 +74,10 @@ They may do so by showcasing their own DMIs or describing their experience pract
   </tbody>
 </table>
 
+## Short Description <a id="short-description"></a>
+
+ In this workshop we aim to engage the NIME community on the development and implementation of such a pedagogy \(or pedagogies\). By sharing and discussing our existing pedagogical approaches among DMI designers, performers, practitioners, and pedagogues in NIME we aim to build an understanding of what would such a performance pedagogy entail, as well as to ideate and generate new pedagogical strategies together.
+
 ## Organizers <a id="organizers"></a>
 
 **Adnan Marquez-Borbon, Universidad Autónoma de Baja California** Adnan is a full-time professor at the Autonomous University of Baja California, Mexico. He holds a PhD in Sonic Arts from the Sonic Arts Research Centre, Queen’s University Belfast. He was a research fellow in the interdisciplinary project, “Into the Key of Law: Transposing Musical Improvisation. The Case of Child Protection in Northern Ireland.” His research mainly focuses on the development of skill and learning with DMIs. His creative work lies within improvisational practices and musical technologies.
@@ -102,9 +101,17 @@ Lauren Sarah Hayes is a Scottish musician and sound artist who builds and perfor
 
 [https://www.pariesa.com/](https://www.pariesa.com/)
 
+## Preferred Length of Workshop <a id="preferred-length-of-workshop"></a>
+
+Half-day \(3 hours\)
+
+## Technical and Space Requirements <a id="technical-and-space-requirements"></a>
+
+Given the current traveling uncertainty with the COVID-19 pandemic we will have a hybrid workshop where most of the activities will take place over an online platform. This way, people will be able to join the conference from anywhere in the world. We plan to use Discord to set up a server that participants may join as well as multiple voice channels to have several simultaneous conversations in groups. Participants will also be able to chat and create different threads for different topics of conversation using this platform. We will also use Padlet for participants to take notes collaboratively.
+
 ## Citations
 
-1. Marquez-Borbon, A. and Martinez Avila, J.P. 2018. The problem of DMI adoption and longevity: Envisioning a NIME performance pedagogy. 
-2. Hayes, L. 2017. Sound, electronics, and music: A radical and hopeful experiment in early music education. Computer Music Journal 41, 3, 36–49. 
-3. Marquez-Borbon, A. \(2020\). Collaborative Learning with Interactive Music Systems. In Proc. NIME ‘20. 
+1. Marquez-Borbon, A. and Martinez Avila, J.P. 2018. The problem of DMI adoption and longevity: Envisioning a NIME performance pedagogy. . [↩]()
+2. Hayes, L. 2017. Sound, electronics, and music: A radical and hopeful experiment in early music education. Computer Music Journal 41, 3, 36–49. [↩]()
+3. Marquez-Borbon, A. \(2020\). Collaborative Learning with Interactive Music Systems. In Proc. NIME ‘20. [↩]()
 
