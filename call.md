@@ -10,10 +10,21 @@ Participants will also be expected to present their papers at the workshop and t
 
 It is **not compulsory** to submit a paper to attend this workshop but it is highly encouraged. 
 
-**Suggested topics for position papers:**  
--Teaching performance techniques for DMIs  
--Improvising as a performance pedagogy approach with DMIs  
--Scoring and notating for DMIs  
--NIME Communities of Practice  
--Documenting NIME pedagogical practices
+**Suggested topics for position papers:**
+
+* Teaching performance techniques for DMIs 
+* Improvising as a performance pedagogy approach with DMIs 
+* Scoring and notating for DMIs 
+* NIME Communities of Practice 
+* Documenting NIME pedagogical practices
+
+### **Contact organiser's**
+
+**Adnan Marquez-Borbon**
+
+\*\*\*\*[**Juan P. Martinez Avila**](mailto:psxjpma@nott.ac.uk)
+
+**Mauricio Prieto Astudillo**
+
+\*\*\*\*
 
