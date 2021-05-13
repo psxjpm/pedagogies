@@ -18,7 +18,7 @@ It is **not compulsory** to submit a paper to attend this workshop but it is hig
 * NIME Communities of Practice 
 * Documenting NIME pedagogical practices
 
-If you are interested in participated, please take some time to complete the questionnaire linked here: https://forms.gle/BSCikMPJHohmjXsS9
+If you are interested in participating, please fill out the form provided by the workshop hosts: https://forms.gle/BSCikMPJHohmjXsS9
 
 ### **Contact organiser's**
 
