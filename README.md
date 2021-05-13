@@ -1,13 +1,10 @@
 ---
-description: >-
-  Date: June 13th (UTC-7) June 14th
-  (UTC+8)                                                                          
-  Duration: 3 hours (14:00-17:00 UTC-7) (22:00-1:00 UTC+1) (5:00-8:00 UTC+8)
+description: 'June 13th (14:00-17:00 UTC-7 | 22:00-1:00 UTC+1) June 14th (5:00-8:00 UTC+8)'
 ---
 
 # Co-constructing a NIME Performance Pedagogy
 
-#### [Call for Short Position Papers \(Deadline: ???\)](https://psxjpm.gitbook.io/pedagogies/call)
+#### [Call for Short Position Papers \(Deadline: June 06, 2021\)](https://psxjpm.gitbook.io/pedagogies/call)
 
 ## Description <a id="description"></a>
 
@@ -21,7 +18,7 @@ Hence, we encourage participants to [**submit proposals for short presentations*
 
 They may do so by showcasing their own DMIs or describing their experience practicing to perform with other people’s DMIs. Although it will not be compulsory to prepare a presentation or bring an instrument to attend to the workshop we expect that participants come prepared with ideas that they would like to discuss as well as to have previous experience as performers and designers of DMIs, or who teach others how to perform and design DMIs.
 
-### Workshop schedule  <a id="workshop-schedule"></a>
+### Workshop schedule <a id="workshop-schedule"></a>
 
 <table>
   <thead>
@@ -86,7 +83,7 @@ They may do so by showcasing their own DMIs or describing their experience pract
 [https://adnanmarquezborbon.wordpress.com/](https://adnanmarquezborbon.wordpress.com/)
 
 **Juan P. Martinez Avila, The University of Nottingham**  
-Juan is a Computer Science PhD candidate at the Mixed Reality Laboratory in the University of Nottingham. He is a diversity officer for NIME.  His work addresses how guitars can be augmented to support performance preparation. His research interests include ethnographic studies, value-based design, soma design and e-textiles. Juan’s research has been published at NIME, CHI and Audio Mostly, and it has received a honourable mention award at CHI 2019.
+Juan is a Computer Science PhD candidate at the Mixed Reality Laboratory in the University of Nottingham. He is a diversity officer for NIME. His work addresses how guitars can be augmented to support performance preparation. His research interests include ethnographic studies, value-based design, soma design and e-textiles. Juan’s research has been published at NIME, CHI and Audio Mostly, and it has received a honourable mention award at CHI 2019.
 
 [https://zavilaz.wordpress.com/](https://zavilaz.wordpress.com/)
 
