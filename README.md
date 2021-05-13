@@ -1,5 +1,5 @@
 ---
-description: 'June 13th (14:00-17:00 UTC-7 / 22:00-1:00 UTC+1) June 14th (5:00-8:00 UTC+8)'
+description: 'June 13th (14:00-17:00 UTC-7 | 22:00-1:00 UTC+1) June 14th (5:00-8:00 UTC+8)'
 ---
 
 # Co-constructing a NIME Performance Pedagogy
