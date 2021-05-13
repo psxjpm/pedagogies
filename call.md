@@ -20,7 +20,7 @@ It is **not compulsory** to submit a paper to attend this workshop but it is hig
 
 If you are interested in participating, please fill out the form provided by the workshop hosts: https://forms.gle/BSCikMPJHohmjXsS9
 
-### **Contact organiser's**
+### **Contact organisers**
 
 [**Adnan Marquez-Borbon**](mailto:adnan.marquez@uabc.ed.mx)
 
