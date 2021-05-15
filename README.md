@@ -18,64 +18,6 @@ Hence, we encourage participants to [**submit proposals for short presentations*
 
 They may do so by showcasing their own DMIs or describing their experience practicing to perform with other people’s DMIs. Although it will not be compulsory to prepare a presentation or bring an instrument to attend to the workshop we expect that participants come prepared with ideas that they would like to discuss as well as to have previous experience as performers and designers of DMIs, or who teach others how to perform and design DMIs.
 
-### Workshop schedule <a id="workshop-schedule"></a>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Table 1</th>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><b>Activity</b>
-      </td>
-      <td style="text-align:left"><b>Description</b>
-      </td>
-      <td style="text-align:left"><b>Time</b>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Introduction</td>
-      <td style="text-align:left">
-        <p>-Welcome and organisers introductions by organisers and participants.</p>
-        <p>-Briefing of the workshop (aims and expected outcomes)</p>
-        <p>-We will give a short presentation of our NIME Performance Pedagogy proposal
-          and address existing epistemological and practical issues in NIME pedagogies,
-          as well as some strategies that we have in mind, such as documenting and
-          open sourcing our processes.</p>
-      </td>
-      <td style="text-align:left">40 mins</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Lightning talks, showcases and discussion</td>
-      <td style="text-align:left">-Participants will have an hour to present and share their pedagogical
-        approaches, experiences, and techniques, with or without a DMI to showcase.</td>
-      <td
-      style="text-align:left">60 mins</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Breakout rooms</td>
-      <td style="text-align:left">-Participants will break into separate rooms to discuss ideas and make
-        collaborative notes whilst the organisers moderate the rooms.</td>
-      <td style="text-align:left">30 mins</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Plenary discussion</td>
-      <td style="text-align:left">Each group presents their ideas to the whole group.</td>
-      <td style="text-align:left">30 mins</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Wrap up</td>
-      <td style="text-align:left">Closing remarks. Establishing a network, and proposing future actions.</td>
-      <td
-      style="text-align:left">20 mins</td>
-    </tr>
-  </tbody>
-</table>
-
 ## Organizers <a id="organizers"></a>
 
 **Adnan Marquez-Borbon, Universidad Autónoma de Baja California** Adnan is a full-time professor at the Autonomous University of Baja California, Mexico. He holds a PhD in Sonic Arts from the Sonic Arts Research Centre, Queen’s University Belfast. He was a research fellow in the interdisciplinary project, “Into the Key of Law: Transposing Musical Improvisation. The Case of Child Protection in Northern Ireland.” His research mainly focuses on the development of skill and learning with DMIs. His creative work lies within improvisational practices and musical technologies.
