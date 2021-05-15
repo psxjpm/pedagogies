@@ -12,10 +12,14 @@ It is **not compulsory** to submit a paper to attend this workshop but it is hig
 
 **Suggested topics for position papers:**
 
-* Teaching performance techniques for DMIs 
+* Personal perspectives on teaching
+* Educational design strategies
+* Pedagogical / philosophical approaches
+* Teaching performance techniques for Digital Musical Instruments \(DMIs\) 
 * Improvising as a performance pedagogy approach with DMIs 
 * Scoring and notating for DMIs 
-* NIME Communities of Practice 
+* Communities of Practice 
+* Classroom activities
 * Documenting NIME pedagogical practices
 
 ## **Contact organiser's**
