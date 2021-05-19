@@ -25,7 +25,7 @@ They may do so by showcasing their own DMIs or describing their experience pract
 [https://adnanmarquezborbon.wordpress.com/](https://adnanmarquezborbon.wordpress.com/)
 
 **Juan P. Martinez Avila, The University of Nottingham**  
-Juan is a Computer Science PhD candidate at the Mixed Reality Laboratory in the University of Nottingham. He is a diversity officer for NIME. His work addresses how guitars can be augmented to support performance preparation. His research interests include ethnographic studies, value-based design, soma design and e-textiles. Juan’s research has been published at NIME, CHI and Audio Mostly, and it has received a honourable mention award at CHI 2019.
+Juan is a Computer Science PhD candidate at the Mixed Reality Laboratory in the University of Nottingham, and a diversity officer for NIME. During his undergraduate studies in Psychology Juan conducted e-learning research and fieldwork at primary and secondary schools. In addition, his MSci in HCI dissertation project addressed the effects of particular interaction design elements in computer-mediated music learning experiences. In his PhD research, Juan is currently exploring ecologically-informed design approaches for new guitar technologies, with a particular interest in performance preparation activities, i.e. learning and rehearsing guitar repertoires. Juan's current design research is grounded on ethnographic studies, participatory design, and soma design, and has received honourable mention awards at CHI 2019 and CHI 2021.
 
 [https://zavilaz.wordpress.com/](https://zavilaz.wordpress.com/)
 
