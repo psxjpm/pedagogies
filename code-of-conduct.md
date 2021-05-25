@@ -14,5 +14,5 @@ description: Please read carefully*
 
 5. We want our online events to be safe spaces for speakers and attendees. Harassment, bullying and hate of any kind is unacceptable and will not be tolerated. If you are found in breach of this, you will be ejected from the event.  
   
-\*Based on: [**Arts and Culture Online Etiquette for Events**](https://www.eventbrite.co.uk/x/see-me-feel-me-touch-me-heal-me-on-the-multimodal-experience-of-sound-tickets-146353847297?utm_source=eventbrite&utm_medium=email&utm_campaign=reminder_attendees_digital_content_notification&utm_term=cta&ref=eemaileventremind)\*\*\*\*
+\*Based on: [**Queen Mary Arts and Culture Online Etiquette for Events**](https://www.eventbrite.co.uk/x/see-me-feel-me-touch-me-heal-me-on-the-multimodal-experience-of-sound-tickets-146353847297?utm_source=eventbrite&utm_medium=email&utm_campaign=reminder_attendees_digital_content_notification&utm_term=cta&ref=eemaileventremind)\*\*\*\*
 
