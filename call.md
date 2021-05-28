@@ -4,6 +4,8 @@ description: 'Deadline: June 06, 2021'
 
 # Call for Short Position Papers
 
+We are calling for members of the community who are engaged in teaching performance with digital musical instruments to share their pedagogical experiences and strategies and to discuss the practicalities involved in the process.
+
 Workshop participants may submit a short position paper \(1-2 pages\) using the [NIME Paper Proceedings Template](https://github.com/psxjpm/pedagogies/raw/main/NIME_Submission_Templates.zip) or alternatively, a 400-500 abstract, a slide deck, a pictorial, or a link to a video. We decided it was important to allow for submissions with different types of formats which reflect the diversity of perspectives within the NIME community.
 
 The deadline for submission is Monday June 06, 2021 \(midnight your local time\). Submissions will be publicly showcased in this space as proceedings. 
