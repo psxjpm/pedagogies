@@ -1,4 +1,19 @@
+---
+description: Please check your time zone
+---
+
 # Schedule
+
+## Dates and Times
+
+**June 13th:**    
+UTC-7 14:00 - 17:00    
+UTC+1 22:00 - 1:00  
+  
+**June 14th:**    
+UTC+8 5:00 - 8:00   
+UTC-7 10:00 - 13:00   
+UTC+1 18:00 - 21:00
 
 <table>
   <thead>
