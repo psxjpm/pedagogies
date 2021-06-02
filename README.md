@@ -34,16 +34,6 @@ Juan is a Computer Science PhD candidate at the Mixed Reality Laboratory in the 
 
 **Mauricio Prieto Astudillo, Universidad Autónoma de Baja California** Violist and musical educator, Mauricio has a Bachelor’s degree in music performance from the Autonomous University of Baja California. He holds a Master's degree in Educational Research from the Institute for Educational Research and Development of the Universidad Autónoma de Baja California, as well as a Postgraduate Specialization in Cultural Policies and Cultural Management degree from the Universidad Autónoma Metropolitana. He is currently studying a Ph.D. in Social Business, researching on cultural capital, public formation, artistic education, and public policy. Mauricio has a chapter published in the book “Prácticas de investigación aplicadas a contextos educativos” and has presented in the Conference of Education and Music Research. Mauricio has taught at the Tijuana Musical Arts Center, the National System for Musical Promotion and the Tijuana Youth Symphony. In the latter, he was the founder and director of the String Orchestra and also created the study programs and specialization courses. He is currently a professor of music pedagogy at the Faculty of Arts of the Universidad Autónoma de Baja California, where he collaborates in the research and design of educational programs.
 
-## Additional Speakers <a id="additional-speakers"></a>
-
-**Lauren Hayes, Arizona State University**
-
-Lauren Sarah Hayes is a Scottish musician and sound artist who builds and performs with hybrid analogue/digital instruments. She is a “positively ferocious improvisor” \(Cycling ‘74\), her music refusing to sit nicely between free improv, experimental pop, techno, and noise. Over the last decade she has developed and honed a deliberately challenging and unpredictable performance system that explores the relationships between bodies, sound, environments, and technology. The Wire described her most recent album MANIPULATION \(pan y rosas discos\) as “skittering melodies and clip-clopping rhythms suggesting a mischievous intelligence emerging from this web of wires”. She is a member of the New BBC Radiophonic Workshop.
-
-[https://www.laurensarahhayes.com/](https://www.laurensarahhayes.com/)
-
-[https://www.pariesa.com/](https://www.pariesa.com/)
-
 ## Citations
 
 1. Marquez-Borbon, A. and Martinez Avila, J.P. 2018. The problem of DMI adoption and longevity: Envisioning a NIME performance pedagogy. 
