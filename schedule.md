@@ -42,25 +42,30 @@ UTC+1 18:00 - 21:00
           as well as some strategies that we have in mind, such as documenting and
           open sourcing our processes.</p>
       </td>
-      <td style="text-align:left">40 mins</td>
+      <td style="text-align:left">25 mins</td>
     </tr>
     <tr>
       <td style="text-align:left">Lightning talks, showcases and discussion</td>
       <td style="text-align:left">-Participants will have an hour to present and share their pedagogical
         approaches, experiences, and techniques, with or without a DMI to showcase.</td>
       <td
-      style="text-align:left">60 mins</td>
+      style="text-align:left">40 mins</td>
     </tr>
     <tr>
       <td style="text-align:left">Breakout rooms</td>
       <td style="text-align:left">-Participants will break into separate rooms to discuss ideas and make
         collaborative notes whilst the organisers moderate the rooms.</td>
-      <td style="text-align:left">30 mins</td>
+      <td style="text-align:left">50 mins</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Break</td>
+      <td style="text-align:left">-Go grab a coffee, stretch your legs, etc...</td>
+      <td style="text-align:left">5 mins</td>
     </tr>
     <tr>
       <td style="text-align:left">Plenary discussion</td>
       <td style="text-align:left">Each group presents their ideas to the whole group.</td>
-      <td style="text-align:left">30 mins</td>
+      <td style="text-align:left">40 mins</td>
     </tr>
     <tr>
       <td style="text-align:left">Wrap up</td>
