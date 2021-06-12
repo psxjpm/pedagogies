@@ -36,7 +36,7 @@ Juan is a Computer Science PhD candidate at the Mixed Reality Laboratory in the 
 
 ## Citations
 
-1. Marquez-Borbon, A. and Martinez Avila, J.P. 2018. The problem of DMI adoption and longevity: Envisioning a NIME performance pedagogy. 
-2. Hayes, L. 2017. Sound, electronics, and music: A radical and hopeful experiment in early music education. Computer Music Journal 41, 3, 36–49. 
-3. Marquez-Borbon, A. \(2020\). Collaborative Learning with Interactive Music Systems. In Proc. NIME ‘20. 
+1. [Marquez-Borbon, A. and Martinez Avila, J.P. 2018. The problem of DMI adoption and longevity: Envisioning a NIME performance pedagogy](https://zenodo.org/record/1302541#.YMTUi2ZKi34). 
+2. [Hayes, L. 2017. Sound, electronics, and music: A radical and hopeful experiment in early music education. Computer Music Journal 41, 3, 36–49. ](https://watermark.silverchair.com/comj_a_00428.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAnswggJ3BgkqhkiG9w0BBwagggJoMIICZAIBADCCAl0GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMT3hDrO81Z8yxt3XBAgEQgIICLu1OT9BidbdbFWzc80TVATOthV0EAuYIIpqZ4XIZkiupB6R31fghGUS5Qe7PKn3RywGO1KnxsI3f123AkaCwq1vZzghCA2xk9CKFXecDvhOTHrcQGwfWJdtC4ti2ovwMVmwdMTPqYhLuwhUN4AmZFeJRt4hhc7CYkZClYpEE2c3OqgaDvOtCJGcUqLJzruFmsso0h5bbcz7BT0005OEZAmWTVFhxSzzEqz9mhh4xFqD10mJ9aWpMrPRdTDHC1j7caPmdKIk_EMCsCgNhJM85tM5OHT_eu-UYj8aqSoGQYIo0z6cvcZ2zSNTRnAUjmWN1AAZ3xKGxiUMLnwW8ivCDln2Z-FZspXfvA_RWCycFyVgQK7QaXsy1kla7o09Yhld1pEsBx8_oMldbwXOYQuIk9wsDeX5phnaFzofBCKypWBI32dMTEWYEJRfxdkwDJdIgoyRJE1CYEAFw0_qewO8SwIkZ2HgA0LpgA4qKktPGGDXpwtwbJVoTxm3Q9J3r6-ziv0yfQkzOtLDJC7fOF5dt48wztFUegxuBumoetVnMO6NcL47VbwiB1m4BtmyB65WEePXGHEm3w_k8sPoE_Z1uh32oo95BO1Pm8wILa09QadwqkLy0XXZZEFUTJWcD1POsxW0QYXbRWbbPc9OzVizLifvIMQu_FNvsxW86BAio51TN3M8iBNIS9nP5a8OpLl9S1pNqxA_au_FuMuMhDMFOPpmHGvH_9UJaB6jvWzHbNA)
+3. [Marquez-Borbon, A. \(2020\). Collaborative Learning with Interactive Music Systems. In Proc. NIME ‘20. ](https://www.nime.org/proceedings/2020/nime2020_paper113.pdf)
 
