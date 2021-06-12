@@ -5,4 +5,5 @@
 * [Talk by Lauren Hayes](talk-by-lauren-hayes.md)
 * [Code of Conduct](code-of-conduct.md)
 * [Schedule](schedule.md)
+* [Resources](resources.md)
 
